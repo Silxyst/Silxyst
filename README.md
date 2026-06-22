@@ -1,4 +1,4 @@
-<img src="ea57bc2da62683e2f26862266de5dc2e.jpg"/>
+<img src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif"/>
 
 <p align="center">
   <a href="https://www.youtube.com/@abyssworksmods" target="_blank">
