@@ -23,7 +23,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm [Silxyst] </b></em>, a mod creator for Assetto Corsa. I enjoy learning about 3D modeling, physics adjustments, and track conversions. Now I'm working on some fun projects to put into practice my knowledge, bringing new content and better details to the simracing community.
+  Hello There! <em><b> I'm Silxyst </b></em>, a mod creator for Assetto Corsa. I enjoy learning about 3D modeling, physics adjustments, and track conversions. Now I'm working on some fun projects to put into practice my knowledge, bringing new content and better details to the simracing community.
 </p>
 
 
