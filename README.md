@@ -47,7 +47,6 @@
   <strong>🎨 Creating 3D models and converting cars/tracks</strong><br/>
   <strong>🔧 Working with Custom Shaders Patch (CSP) and Lua</strong><br/>
   <strong>⚙️ Modifying and updating game physics (data)</strong><br/>
-  <strong>🏁 Simracer</strong>
 </p>
 
 <br/>
