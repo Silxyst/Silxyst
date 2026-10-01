@@ -47,6 +47,7 @@
 
 <h2 align="center"><img src="./imgs/title3.png" width="25" alt="" /> <em>Statistics</em></h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Silxyst&amp;bg_color=000000&amp;color=ffffff&amp;line=ffffff&amp;point=ffffff&amp;area=true&amp;hide_border=false" width="100%" alt="GitHub activity graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Silxyst&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" alt="Silxyst's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silxyst&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Silxyst's most used languages" />
+</p>
