@@ -20,6 +20,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="110" alt="Creative motion" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/l0HErVbAxxM5FqV9m/giphy.gif" width="110" alt="Design motion" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw8g/giphy.gif" width="110" alt="Car motion" />
+</p>
+
 <br>
 
 ---
@@ -36,7 +44,13 @@
 </p>
 
 <p style="font-size: 16px; line-height: 1.8;">
-  I'm deeply passionate about 3D modeling, physics simulations, and track conversions. Currently working on exciting projects that blend creativity with technical precision. Always learning, always improving! 🚀
+  I'm deeply passionate about 3D modeling, physics simulations, and track conversions. Currently working on exciting projects that blend creativity with technical precision. Always learning, always improving, and constantly exploring new ways to bring virtual worlds to life.
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/80/80f8aa55dd4b1607d4d8567b8a593d93_w200.gif" width="120" alt="3D motion" />
+  &nbsp;
+  <img src="https://i.gifer.com/origin/1d/1dba171413db76124d17c135b500eb42_w200.gif" width="120" alt="track motion" />
 </p>
 
 <br/>
@@ -47,6 +61,14 @@
   <strong>🎨 Creating 3D models and converting cars/tracks</strong><br/>
   <strong>🔧 Working with Custom Shaders Patch (CSP) and Lua</strong><br/>
   <strong>⚙️ Modifying and updating game physics (data)</strong><br/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2nGQ7E0gJv7y0/giphy.gif" width="160" alt="3D modeling" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="160" alt="Track conversion" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="160" alt="Physics simulation" />
 </p>
 
 <br/>
@@ -68,6 +90,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="Tool animation" />
+</p>
+
 <br/>
 
 ---
@@ -78,7 +104,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silxyst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&include_all_commits=true&count_private=true" alt="Silxyst's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silxyst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&include_all_commits=true&count_private=true" alt="Silxyst's GitHub stats" />
   
   <br/>
   
@@ -88,6 +114,16 @@
 <br/>
 
 ---
+
+<h3 align="center">⚡ Creative Flow</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="120" alt="Motion design" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="120" alt="Build process" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/1d7F9xyq6j7YQf4lJq/giphy.gif" width="120" alt="Project animation" />
+</p>
 
 <p align="center">
   <strong>👁️ Profile Views:</strong><br/>
