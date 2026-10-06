@@ -50,6 +50,7 @@ I work at the intersection of <strong>Lua development</strong>, <strong>3D art</
   <a href="https://github.com/Silxyst/ApexFlow"><img src="https://img.shields.io/badge/ApexFlow-AI_%26_Race_Control-8b5cf6?style=flat-square" alt="ApexFlow" /></a>
   <a href="https://github.com/Silxyst/PaintShop-Fix"><img src="https://img.shields.io/badge/PaintShop_Fix-In--game_Painting-f97316?style=flat-square" alt="PaintShop Fix" /></a>
   <a href="https://github.com/Silxyst/LumiDRS"><img src="https://img.shields.io/badge/LumiDRS-DRS_Assistant-22c55e?style=flat-square" alt="LumiDRS" /></a>
+  <a href="https://github.com/Silxyst/AC-Engineer-Sally"><img src="https://img.shields.io/badge/AC_Engineer_Sally-Race_Engineer-ec4899?style=flat-square" alt="AC Engineer Sally" /></a>
 </p>
 
 ---
