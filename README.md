@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I build immersive tools for Assetto Corsa, combining code, design, physics and a passion for motorsport.
+  I build immersive motorsport tools, custom in-game systems, and visual experiences that make sim racing feel deeper, smarter, and more alive.
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="260" align="right" alt="Animated astronaut illustration" />
 
-I'm a **3D modeler and mod creator** focused on expanding the Assetto Corsa experience. I enjoy turning ideas into polished tools — from smarter race control and broadcast overlays to in-game creative utilities.
+I'm a <strong>3D modeler and mod creator</strong> focused on taking the Assetto Corsa experience beyond the default. I enjoy transforming ideas into polished simulations, tools, and features that improve how players race, watch, and experience motorsport in-game.
 
-I work at the intersection of **Lua development**, **3D art**, **vehicle physics** and **track conversion**. Always learning, refining and building new ways to make virtual racing feel more alive.
+I work at the intersection of <strong>Lua development</strong>, <strong>3D art</strong>, <strong>vehicle physics</strong>, and <strong>track conversion</strong>. My work spans from better race control and gameplay systems to custom visuals, data tuning, and immersive user-facing interfaces.
 
 ### ✨ What I do
 
@@ -76,8 +76,8 @@ I work at the intersection of **Lua development**, **3D art**, **vehicle physics
 </h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Silxyst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&include_all_commits=true" alt="Silxyst GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silxyst&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Silxyst most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Silxyst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github" alt="Silxyst GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silxyst&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top languages" />
 </p>
 
 ---
