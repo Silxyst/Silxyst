@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@sil_xyst"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.twitch.tv/sil_xyst"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://www.instagram.com/sill.xyst"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/sil.xyst"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linktr.ee/SilXyst"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
 
@@ -73,7 +73,7 @@
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="200" align="right" alt="Animated astronaut illustration" style="margin: 0 20px;" />
 
-I'm a **3D modeler and mod creator** obsessed with pushing Assetto Corsa to its limits. I don't just build tools — I create **complete ecosystems** that transform how people race, broadcast, and experience sim racing.
+I'm a **3D modeler and mod creator** obsessed with pushing Assetto Corsa to its limits. I don't just build tools — I create **complete ecosystems** that transform how people race, broadcast, and experience motorsport in-game.
 
 My work blends:
 - 🧠 **Intelligent systems** (AI, race control, strategy)
@@ -91,9 +91,9 @@ Every project I build is designed to make virtual racing feel **more alive, more
 
 | **Languages** | **Tools** | **Engines** |
 |:---:|:---:|:---:|
-| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white) | ![Assetto Corsa](https://img.shields.io/badge/Assetto%20Corsa-000000?style=flat) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) | ![CSP](https://img.shields.io/badge/Custom%20Shaders%20Patch-FF6B00?style=flat) |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![3ds Max](https://img.shields.io/badge/3ds%20Max-6DC664?style=flat&logo=autodesk&logoColor=white) | ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white) |
+| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white) | ![Assetto Corsa](https://img.shields.io/badge/Assetto%20Corsa-2F2F2F?style=flat&logo=game&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) | ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302F31?style=flat&logo=obsstudio&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![3ds Max](https://img.shields.io/badge/3ds%20Max-6DC664?style=flat&logo=autodesk&logoColor=white) | ![Custom Shaders Patch](https://img.shields.io/badge/CSP-3C8DFF?style=flat&logo=github&logoColor=white) |
 
 </div>
 
@@ -117,7 +117,7 @@ Every project I build is designed to make virtual racing feel **more alive, more
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Silxyst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github&include_all_commits=true" alt="Silxyst GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Silxyst&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github&custom_title=Silxyst%20Stats" alt="Silxyst GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silxyst&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 </p>
 
